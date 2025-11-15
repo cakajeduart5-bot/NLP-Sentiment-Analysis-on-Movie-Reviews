@@ -1,4 +1,4 @@
-# NLP Sentiment Analysis on Movie Reviews
+# NLP Sentiment Analysis on Yelp Reviews
 
 ## Overview
 This project performs Natural Language Processing (NLP) on a corpus of movie reviews to classify sentiment as positive or negative. The workflow includes text cleaning, tokenization, vectorization, and model training using multiple classifiers.
